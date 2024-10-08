@@ -58,15 +58,3 @@ The script will generate a CSV file named `Transcriptomicsdata.csv` in your work
 - The sample barcodes provided are examples. Replace them with the specific barcodes relevant to your research.
 - This script is intended as a starting point. Feel free to modify and expand it to suit your specific research needs.
 
-## Contributing
-
-We welcome contributions to improve this tutorial. Please feel free to submit issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- The TCGA Research Network for providing the data
-- The developers of TCGAbiolinks and other R packages used in this tutorial
